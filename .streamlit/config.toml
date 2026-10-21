@@ -1,0 +1,10 @@
+[browser]
+# Keep the demo fully local: no anonymous usage telemetry.
+gatherUsageStats = false
+
+[server]
+headless = true
+
+[theme]
+base = "light"
+primaryColor = "#2563EB"
